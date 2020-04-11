@@ -1,0 +1,9 @@
+*.h2
+05-Object-Tracking/
+data/
+deep/
+*.h5
+*.zip
+*.7z
+*.exe
+*../
